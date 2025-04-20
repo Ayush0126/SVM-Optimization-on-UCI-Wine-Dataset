@@ -63,6 +63,6 @@ This plot represents the improvement in best accuracy over 100 iterations for th
 
 ## 📎 GitHub Link
 
-👉 [GitHub Repository](https://github.com/your-username/your-repo-name)
+👉 [GitHub Repository]([https://github.com/your-username/your-repo-name](https://github.com/Ayush0126/SVM-Optimization-on-UCI-Wine-Dataset))
 
 ---
